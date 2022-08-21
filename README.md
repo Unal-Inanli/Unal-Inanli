@@ -27,7 +27,7 @@
 
 ## My Hobbies and What I Like To Do In My Free Time
 
-Most of my free time goes to research and development to expand my knowledge and skills but when im not digging through documents and obsessing over page load speeds i usuall;
+Most of my free time goes to research and development to expand my knowledge and skills but when im not digging through documentation and obsessing over page load speeds i usually;
 
 🏋️‍♂️ Go to the Gym
 
