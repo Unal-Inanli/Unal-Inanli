@@ -1,5 +1,5 @@
 
-# Hi, I'm Unal Inanli (Looking for a JOB) Contact me  @ <unal.inanli@outlook.com>
+# Hi, I'm Unal Inanli
 ## 💣 Frontend Web Developer, Documentation Dweller and Destroyer of Spaghetti Code 💣
 
 🍞 My bread and butter 🧈
