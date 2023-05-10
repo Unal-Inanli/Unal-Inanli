@@ -21,6 +21,12 @@
 | RemixJS | PHP |
 | | SQL |
 | | Vite |
+| | PostgreSQL |
+| | SQLite |
+| | ChakraUI |
+| | ReactQuery |
+| | TRPC |
+
 
 - - -
 
