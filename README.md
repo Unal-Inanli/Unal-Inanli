@@ -18,10 +18,9 @@
 | Vue | Express | Yeoman |
 | Next | MongoDB | Typescript |
 | Gatsby | Laravel | Cypress |
-| | PHP |
+| RemixJS | PHP |
 | | SQL |
-| | Gulp |
-| | Webpack |
+| | Vite |
 
 - - -
 
@@ -31,7 +30,7 @@ Most of my free time goes to research and development to expand my knowledge and
 
 🏋️‍♂️ Go to the Gym
 
-🎮 Play video games (CSGO, Destiny 2, Fortnite) HMU
+🎮 Play video games (CSGO and a variety of games) HMU
 
 📖 Read books (Educational mostly)
 
@@ -42,5 +41,3 @@ Most of my free time goes to research and development to expand my knowledge and
 ## Places you can find me
 
 - [LinkedIN](www.linkedin.com/in/unal-inanli)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/Unal-Inanli)
-- [Fiverr(Shameless Plugin)](https://www.fiverr.com/unalinanli)
