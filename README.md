@@ -14,11 +14,11 @@
 
 | Frameworks I Deal With | Other Stuff I Know | I Dabble With 
 | ----------- | ----------- | ----------- |
-| React | Node.js | Three.js |
-| Vue | Express | Yeoman |
-| Next | MongoDB | Typescript |
-| Gatsby | Laravel | Cypress |
-| RemixJS | PHP |
+| Next | Node.js | Three.js |
+| Astro | Express | Yeoman |
+| Remix | MongoDB | Typescript |
+|  | Laravel | Cypress |
+|  | PHP |
 | | SQL |
 | | Vite |
 | | PostgreSQL |
