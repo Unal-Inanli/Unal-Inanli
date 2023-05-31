@@ -12,19 +12,16 @@
 
 <img src="https://camo.githubusercontent.com/a86572a52ad5ac307fc7701f473c489b20744402f9a2282d5a36bdf9a3a5e3f7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39362f536173735f4c6f676f5f436f6c6f722e7376672f3132383070782d536173735f4c6f676f5f436f6c6f722e7376672e706e67" alt="sasslogo" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 18px;"> SASS
 
-| Frameworks I Deal With | Other Stuff I Know | I Dabble With 
+| Frontend | Backend | Others 
 | ----------- | ----------- | ----------- |
-| Next | Node.js | Three.js |
-| Astro | Express | Yeoman |
+| Next | Node.js | Github |
+| Astro | Express | Vite |
 | Remix | MongoDB | Typescript |
-|  | Laravel | Cypress |
-|  | PHP |
-| | SQL |
-| | Vite |
+| TailwindCSS | Laravel | Figma |
+| ChakraUI | PHP | AdobeXD |
+| Bootstrap | SQL |
 | | PostgreSQL |
 | | SQLite |
-| | ChakraUI |
-| | ReactQuery |
 | | TRPC |
 
 
